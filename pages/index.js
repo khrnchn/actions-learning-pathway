@@ -16,8 +16,8 @@ export default function Home() {
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
 
-       <h1>Congratulations!</h1>
-  <p>You've completed the essentials of automated application deployment with GitHub Actions! 🥳</p>
+        <h1>lets fucking gooooo!</h1>
+        <p>khairin has completed the essentials of automated application deployment with gitHub actions! 🥳</p>
 
       </main>
     </>
